@@ -1,0 +1,21 @@
+{
+  "name": "azure-ad-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Sander Hammelburg",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon -r dotenv/config index.js dotenv_config_path=.env"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.10.0",
+    "passport": "^0.3.2",
+    "passport-azure-ad": "^4.2.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.4"
+  }
+}

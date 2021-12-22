@@ -1,7 +1,7 @@
 ### Angular / Express.js Azure AD
 
 Read my blog post on how to configure this applications in Azure. - 
-[Azure AD with Angular and Express.js](https://shammelburg.medium.com)
+[Azure AD with Angular and Express.js](https://shammelburg.medium.com/azure-ad-with-angular-and-express-js-829b23da7a3e)
 
 **This a refactored approach to my blog post (above).**
 
